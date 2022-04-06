@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactHuddleLandingPage/static/css/main.64ba2571.css",
+    "main.js": "/reactHuddleLandingPage/static/js/main.c9b677d6.js",
+    "static/media/logo.svg": "/reactHuddleLandingPage/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/footerLogo.svg": "/reactHuddleLandingPage/static/media/footerLogo.b3e86e0bdc82ab250a6e704d356d54d9.svg",
+    "static/media/illustration-mockups.svg": "/reactHuddleLandingPage/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/bg-hero-desktop.svg": "/reactHuddleLandingPage/static/media/bg-hero-desktop.6f3681282137997079c4.svg",
+    "static/media/bg-hero-mobile.svg": "/reactHuddleLandingPage/static/media/bg-hero-mobile.fa71e99ae112550574bc.svg",
+    "index.html": "/reactHuddleLandingPage/index.html",
+    "static/media/icon-phone.svg": "/reactHuddleLandingPage/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/reactHuddleLandingPage/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/reactHuddleLandingPage/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.64ba2571.css.map": "/reactHuddleLandingPage/static/css/main.64ba2571.css.map",
+    "main.c9b677d6.js.map": "/reactHuddleLandingPage/static/js/main.c9b677d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ba2571.css",
+    "static/js/main.c9b677d6.js"
+  ]
+}
